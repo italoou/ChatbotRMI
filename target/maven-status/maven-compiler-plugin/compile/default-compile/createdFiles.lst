@@ -1,0 +1,6 @@
+chatbot/MainServer.class
+chatbot/ChatbotClientInterface.class
+chatbot/ChatbotClient.class
+chatbot/ChatbotServer.class
+chatbot/ChatbotServerInterface.class
+chatbot/MainClient.class
